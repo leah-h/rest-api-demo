@@ -1,7 +1,7 @@
 ## REST API Demo
 <hr>
 
-A demo of creating a RESTful API using SpringBoot, Spring Data JPA, 
+A demo of a REST API using SpringBoot, Spring Data JPA, 
 and H2 database.
 
 <hr>
