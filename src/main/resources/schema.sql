@@ -1,0 +1,7 @@
+DROP TABLE IF EXISTS coupons;
+
+CREATE TABLE coupons(
+    code VARCHAR2(100) PRIMARY KEY,
+    name VARCHAR2(150) NOT NULL,
+    amount INTEGER NOT NULL
+);
